@@ -23,7 +23,7 @@ The organization of _projects_ and _todos_ is in the form of nested accordion st
 
 ## Live Demo
 
-[Live Demo Link](https://optimistic-volhard-bc7791.netlify.app/)
+[Live Demo Link](https://modest-wright-d6e3eb.netlify.app/)
 
 
 ## Getting Started
