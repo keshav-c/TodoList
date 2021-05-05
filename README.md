@@ -43,12 +43,11 @@ The organization of _projects_ and _todos_ is in the form of nested accordion st
 
 👤 **mbabaliiryn**
 
-- Github: [mbabaliiryn](https://github.com/mbabaliiryn)
-- Linkedin: [mbabaliiryn](https://www.linkedin.com/in/mbabali-iryn/)
+- Github: [@mbabaliiryn](https://github.com/mbabaliiryn)
+- Linkedin: [@mbabali-iryn](https://www.linkedin.com/in/mbabali-iryn/)
 
 👤 **Keshav Chakravarthy**
 
-- Github: [@githubhandle](https://github.com/keshav-c)
 - Linkedin: [k3shavchakravarthy ](https://www.linkedin.com/in/k3shavchakravarthy/)
 
 ## 🤝 Contributing
